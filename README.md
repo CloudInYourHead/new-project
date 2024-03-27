@@ -9,4 +9,8 @@ git add README.md
 git commit -m 'init'
 git branch development
 git checkout development
+git branch main
+git switch main
+git pull origin development
+git push origin main
 
